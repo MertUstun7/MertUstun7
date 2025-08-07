@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mert ÜSTÜN</h1>
-<h3 align="center">Computer Engineering Student</h3>
+<h3 align="center">Computer Engineering Student | Passionate about Artificial Intelligence and its real-world applications</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mertustun7&label=Profile%20views&color=0e75b6&style=flat" alt="mertustun7" /> </p>
 
@@ -96,9 +96,26 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
 </div>
 
+
+
+
+<!-- Araya boşluk bırakmak için -->
+
+<br><br>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mertustun7&show_icons=true&theme=transparent&title_color=f00000&text_color=ffffff&hide_border=true&locale=en&layout=compact" alt="Top Languages" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=mertustun7&show_icons=true&theme=transparent&title_color=ff0000&text_color=fafafa&hide_border=true&locale=en" alt="GitHub Stats" />
+    </td>
+  </tr>
+</table>
+
+
+ <div style="text-align: right;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mertustun7&theme=default" alt="GitHub Streak" />
+</div>
+
   
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mertustun7&show_icons=true&theme=dark&title_color=f00000&text_color=ffffff&hide_border=true&locale=en&layout=compact" alt="mertustun7" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mertustun7&show_icons=true&theme=dark&title_color=ff0000&text_color=fafafa&hide_border=true&locale=en" alt="mertustun7" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mertustun7&theme=default" alt="mertustun7" /></p>
