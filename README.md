@@ -98,9 +98,6 @@
 
 
 
-
-<!-- Araya boşluk bırakmak için -->
-
 <br><br>
 <table>
   <tr>
@@ -112,10 +109,7 @@
     </td>
   </tr>
 </table>
-
-
  <div style="text-align: right;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mertustun7&theme=default" alt="GitHub Streak" />
 </div>
-
   
