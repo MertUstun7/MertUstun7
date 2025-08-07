@@ -1,4 +1,22 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h1 align="center">Hi 👋, I'm Mert ÜSTÜN</h1>
+<h3 align="center">Computer Engineering Student</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mertustun7&label=Profile%20views&color=0e75b6&style=flat" alt="mertustun7" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mertustun7" alt="mertustun7" /></a> </p>
+
+- 🔭 I’m currently working on [pazarlai](https://github.com/halilfurkankarademir/pazarlai)
+
+- 🌱 I’m currently learning **machine learning, deep learning and computer vision**
+
+- 👨‍💻 I'm open to collaboration **with others who are passionate about AI**
+
+- 📫 How to reach me **mertustun033@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/mert-ustun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mert-ustun" height="30" width="40" /></a>
+</p>
 
 ###
 
@@ -78,6 +96,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
 </div>
 
-###
+  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mertustun7&show_icons=true&theme=dark&title_color=f00000&text_color=ffffff&hide_border=true&locale=en&layout=compact" alt="mertustun7" /></p>
 
-###
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mertustun7&show_icons=true&theme=dark&title_color=ff0000&text_color=fafafa&hide_border=true&locale=en" alt="mertustun7" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mertustun7&theme=default" alt="mertustun7" /></p>
